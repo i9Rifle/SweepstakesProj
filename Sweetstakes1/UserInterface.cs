@@ -10,7 +10,7 @@ namespace Sweetstakes1
     {
         public static void Display()
         {
-
+            Contestant contestant = new Contestant();
         }
     }
 }
