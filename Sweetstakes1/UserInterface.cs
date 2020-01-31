@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Sweetstakes1
 {
-    public class Program
+    public static class UserInterface
     {
-        static void Main(string[] args)
+        public static void Display()
         {
 
         }
