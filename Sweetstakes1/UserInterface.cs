@@ -8,6 +8,10 @@ namespace Sweetstakes1
 {
     public static class UserInterface
     {
+        public static string GetUserInput()
+        {
+
+        }
         public static void Display()
         {
             Contestant contestant = new Contestant();
